@@ -33,7 +33,7 @@ Criar algo "natty" com o auxílio de IA foi um exercício fascinante de criativi
 
 ![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/473679i3DEFEF5A70432508/image-size/large?v=v2&px=999)
 
-##🔗 Links Interessantes 
+## 🔗 Links Interessantes 
 [Gamma AI](https://gamma.app "Gamma AI: Gamma")
 [GitHub Copilot](https://github.com/features/copilot "GitHub Copilot")
 [Copilot](https://copilot.microsoft.com")
